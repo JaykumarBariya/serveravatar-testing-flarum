@@ -6,7 +6,7 @@
     'database' => 'flarum',
     'prefix' => 'flr',
     'prefix_indexes' => true,
-    'host' => '128.199.18.39',
+    'host' => '',
     'port' => 3306,
     'username' => 'flarum',
     'password' => 'flarum',
@@ -15,7 +15,7 @@
     'engine' => 'InnoDB',
     'strict' => false,
   ),
-  'url' => 'http://128.199.18.39',
+  'url' => 'http://',
   'paths' => 
   array (
     'api' => 'api',
